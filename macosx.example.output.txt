@@ -1,0 +1,81 @@
+
+IP: 216.58.198.174
+
+NetName:        GOOGLE
+
+IP: 104.20.52.182
+
+NetName:        CLOUDFLARENET
+
+IP: 198.41.214.67
+
+NetName:        CLOUDFLARENET
+
+IP: 216.58.198.170
+
+NetName:        GOOGLE
+
+IP: 104.31.74.222
+
+NetName:        CLOUDFLARENET
+
+IP: 216.58.214.14
+
+NetName:        GOOGLE
+
+IP: 216.58.204.46
+
+NetName:        GOOGLE
+
+IP: 216.58.204.74
+
+NetName:        GOOGLE
+
+IP: 216.58.204.37
+
+NetName:        GOOGLE
+
+IP: 192.30.253.125
+
+NetName:        GITHUB-NET4-1
+
+IP: 216.58.198.174
+
+NetName:        GOOGLE
+
+IP: 168.63.135.146
+
+NetName:        MICROSOFT
+
+IP: 74.125.133.188
+
+NetName:        GOOGLE
+
+IP: 17.188.138.70
+
+NetName:        APPLE-WWNET
+
+IP: 91.190.216.60
+
+NetName:        91-RIPE
+netname:        SKYPE-LU5
+
+IP: 64.233.184.109
+
+NetName:        GOOGLE
+
+IP: 40.77.226.192
+
+NetName:        MSFT
+
+IP: 157.56.52.16
+
+NetName:        MSFT-GFS
+
+IP: 17.252.60.23
+
+NetName:        APPLE-WWNET
+
+IP: 74.125.133.189
+
+NetName:        GOOGLE
