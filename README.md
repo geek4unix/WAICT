@@ -17,7 +17,7 @@ a) chmod +x macosx.waict.sh && ./macosx.waict.sh
 
 or
 
-b) bash ./linux.waict.sh
+b) bash ./macosx.waict.sh
 
 For Linux:
 
